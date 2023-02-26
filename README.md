@@ -1,7 +1,7 @@
 # I Wanna Reach The Unity PS Vita Port
 
 This is a port of I Wanna Reach The Unity for the PS Vita.
-I Wanna Reach The Unity is a fangame of I Wanna Be The Guy inspired and containing levels form other I Wanna Be The Guy fangames
+I Wanna Reach The Unity is a fangame of I Wanna Be The Guy inspired and containing levels from others I Wanna Be The Guy fangames
 
 ## Credits/Links
 Original game by [HaselLoyance](https://github.com/HaselLoyance)
