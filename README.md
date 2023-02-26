@@ -10,7 +10,7 @@ Original source code [here](https://github.com/HaselLoyance/I-Wanna-Reach-The-Un
 
 Port by [MEGAgameBoy](https://github.com/MEGAgameBoy)
 
-##Original Credits
+## Original Credits
 ### Special Thanks
 - padobrik
 - breadSmug
