@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destructable
+  - Bullet
+  - BulletBlocker
+  - LightsOutController
+  - HyenaTrigger
+  - TipTrigger
+  - SadTromboneTrigger
+  - Stage4TrollWarp
+  - GameClearWarp
+  - Kabe
+  - Kabe2
+  - KabeDasu2
+  - KabeDasu
+  - Kurai
+  - Hanabi
+  - Hanabi22
+  - Hanabi2
+  - Hanabi3
+  - Hanabi33
+  - KaitenDekai
+  - Ransu
+  - Shower
+  - Object724
+  - Yureruyo
+  - Tenmetsuda
+  - Karahuru
+  - Murasaki
+  - Mizu
+  - Kiro
+  - Midori
+  - Jikihazusi
+  - Midorigoki
+  - Kirogoki
+  - Mizugoki
+  - Muragoki
+  - Ransuyou
+  - Count
+  - Meiten
+  - Bound
+  - Object722
+  - Object761
+  - Hadou
+  - Hanteinai
+  - Hanteinaiyo
+  - Gottjiki
+  - Kaiten
+  - Kaiten2
+  - Gurugurusuru
+  - Yokoyure
+  - Yazirusi
+  - Kabeda
+  - Kabedayou
+  - Tuibi
+  - Kabetukuru
+  - Kabeninaru
+  - Object814
+  - Object815
+  - Object816
+  - Object817
+  - Hadouken
+  - Hadouyou
+  - Tenmesuyou
+  - Ransuyou2
+  - Object832
+  - Gamenmawaru
+  - Yureru
+  - Object833
+  - Hanabidasu
+  - Dasuyo
+  - Kurakunaru
+  - Roopdayo
+  - Gurun
+  - Object871
+  - Object915
+  - Tateyure
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dangers
+  - Obstacles
+  - Saves
+  - Warps
+  - Player
+  - JumpRefreshers
+  - Triggers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LightsOutLayer
+    uniqueID: 1239959489
+    locked: 0
+  - name: GameOverLayer
+    uniqueID: 2107585551
+    locked: 0
+  - name: BrokenLightsLayer
+    uniqueID: 2705504473
+    locked: 0
